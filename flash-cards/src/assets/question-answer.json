@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What is a distributed system?",
+    "answer": "A distributed system is a collection of independent computers that work together as a single system, appearing to users as one unified entity."
+  },
+  {
+    "question": "What are the main goals of a distributed system?",
+    "answer": "The main goals are scalability, fault tolerance, resource sharing, and transparency (such as access, location, and replication transparency)."
+  },
+  {
+    "question": "What are the key challenges in distributed systems?",
+    "answer": "Challenges include network latency, fault tolerance, data consistency, synchronization, and security."
+  },
+  {
+    "question": "What are the common communication models in distributed systems?",
+    "answer": "The two main models are message passing and remote procedure calls (RPCs)."
+  },
+  {
+    "question": "What is a Remote Procedure Call (RPC)?",
+    "answer": "RPC is a protocol that allows a program to execute procedures on a remote server as if it were a local function call."
+  },
+  {
+    "question": "What is the difference between synchronous and asynchronous communication?",
+    "answer": "Synchronous: The sender waits for a response before proceeding. Asynchronous: The sender continues execution without waiting for a response."
+  },
+  {
+    "question": "What is data replication in distributed systems?",
+    "answer": "Data replication is the process of storing multiple copies of the same data across different nodes to improve availability and fault tolerance."
+  },
+  {
+    "question": "What is consistency in distributed systems?",
+    "answer": "Consistency ensures that all nodes have the same view of data at a given time."
+  },
+  {
+    "question": "What are the types of consistency models?",
+    "answer": "Examples include strong consistency, eventual consistency, and causal consistency."
+  },
+  {
+    "question": "What is eventual consistency?",
+    "answer": "Eventual consistency means that given enough time, all copies of data will become the same, even if temporary inconsistencies exist."
+  },
+  {
+    "question": "What is fault tolerance?",
+    "answer": "Fault tolerance is the ability of a system to continue functioning even when some of its components fail."
+  },
+  {
+    "question": "What are some common fault tolerance techniques?",
+    "answer": "Techniques include replication, checkpointing, and leader election."
+  },
+  {
+    "question": "What is a consensus algorithm?",
+    "answer": "A consensus algorithm is a mechanism that ensures multiple nodes in a distributed system agree on a single value."
+  },
+  {
+    "question": "Name two popular consensus algorithms.",
+    "answer": "Paxos and Raft are commonly used in distributed systems."
+  },
+  {
+    "question": "What is leader election in distributed systems?",
+    "answer": "Leader election is a process where nodes elect a single leader responsible for coordination and decision-making."
+  },
+  {
+    "question": "What are the common architectures in distributed systems?",
+    "answer": "The common architectures include client-server, peer-to-peer (P2P), and microservices."
+  },
+  {
+    "question": "What is a peer-to-peer (P2P) system?",
+    "answer": "In a P2P system, all nodes are equal and directly communicate without a centralized server."
+  },
+  {
+    "question": "What is a microservices architecture?",
+    "answer": "A microservices architecture consists of small, independent services that communicate over a network to form a complete application."
+  }
+]
