@@ -1,4 +1,4 @@
-\# Web Development Project 2 - *DS Flash Cards*
+# Web Development Project 2 - *DS Flash Cards*
 
 
 
