@@ -6,7 +6,7 @@ Submitted by: **Ya Ji**
 
 
 
-This web app: **This application helps users study distributed systems concepts with flash cards. The app displays a question on a card. When the card is clicked, it flips to reveal the answer. A "Next" button allows the user to display a new, randomly selected flash card, providing a dynamic study experience.**
+This web app: **helps users study distributed systems concepts with flash cards. The app displays a question on a card. When the card is clicked, it flips to reveal the answer. A "Next" button allows the user to display a new, randomly selected flash card, providing a dynamic study experience.**
 
 
 
