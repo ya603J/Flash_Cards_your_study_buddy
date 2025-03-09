@@ -62,7 +62,7 @@ Here's a walkthrough of implemented required features:
 
 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://private-user-images.githubusercontent.com/181181004/420706580-d9e64326-6c5c-406b-8838-0f7e6a62d382.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE1NTYwNzMsIm5iZiI6MTc0MTU1NTc3MywicGF0aCI6Ii8xODExODEwMDQvNDIwNzA2NTgwLWQ5ZTY0MzI2LTZjNWMtNDA2Yi04ODM4LTBmN2U2YTYyZDM4Mi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwOVQyMTI5MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YTYwZWJkN2Y3NjY1NDhlMWNjMTBmNmVkZjA0ZTljMzJjMTNmMjY2ZDJmNmM5MWVhZjQ0YWRlYWU3MWMyZTkwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.nyjVKkGLo3qAkYNYJ9BmCJO4w3eKybkTrG9TQe8UfKM' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
