@@ -29,6 +29,11 @@ h1 {
   font-family: 'Xanh Mono', monospace;
 }
 
+.num-of-cards {
+  align-items: center;
+  padding-top: 2em;
+}
+
 .cards-container {
   align-items: center;
   height: 400px;
@@ -36,9 +41,7 @@ h1 {
   margin-left: 20%;
   margin-top: 2em;
   font-family: 'Xanh Mono', monospace;
-
 }
-
 
 .next-button-container {
   display: flex;
@@ -59,11 +62,36 @@ h1 {
   .cards-container {
     width: 100%;
     margin-left: 0;
+    background-color: transparent;
   }
 
   .flex-container {
     flex-direction: column;
     padding-top: 10px;
     padding-bottom: 10px;
+  }
+}
+
+
+/* Media Queries for Mobile Devices */
+@media (max-width: 768px) {
+  .App {
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+    margin-top: 0.5rem;
+  }
+
+  .description {
+    width: 100%;
+    font-size: 0.9rem;
+    margin-left: 0;
+  }
+
+  .cards-container {
+    height: auto;
+    width: 100%;
   }
 }

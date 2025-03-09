@@ -32,7 +32,7 @@
 }
 
 h2 {
-    margin-top: 20%;
+    margin-top: 22%;
     font-family: 'Xanh Mono', monospace;
 }
 
@@ -40,7 +40,7 @@ h2 {
     font-size: 1em;
     color: rgba(36, 15, 15, 0.7);
 }
-
+  
 .flip-card-question, .flip-card-answer {
     position: absolute;
     width: 100%;
@@ -49,7 +49,6 @@ h2 {
     -webkit-backface-visibility: hidden; 
     backface-visibility: hidden;
     font-family: 'Xanh Mono', monospace;
-
 }
 
 .flip-card-answer {
@@ -69,4 +68,66 @@ h2 {
     width: 100%;
     text-align: center;
     left: 0;
+}
+
+
+/* Mobile Friendly Adjustments */
+@media (max-width: 768px) {
+    .flip-card {
+        width: 80%;
+        height: auto;
+        margin: auto;
+    }
+  
+    .flip-container {
+        width: 100%;
+        height: auto;
+        padding: 1rem;
+    }
+  
+    h2 {
+        margin-top: 10%;
+        font-size: 1.5rem;
+    }
+  
+    .flip-card-question,
+    .flip-card-answer {
+        width: 100%;
+        height: auto;
+        position: relative;
+        white-space: normal;
+        word-wrap: break-word;
+    }
+  
+    .flip-card-answer {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -5%) rotateY(180deg);
+        width: 90%;
+        font-size: 0.6em;
+    }
+}
+
+/* Extra small devices adjustments for devices up to 480px */
+@media (max-width: 480px) {
+    .flip-container {
+        padding: 0.5rem;
+    }
+  
+    h2 {
+        margin-top: 5%;
+        font-size: 1.2rem;
+    }
+  
+    .flip-card-question,
+    .flip-card-answer {
+        width: 95%;
+        font-size: 0.9em;
+    }
+  
+    .flip-card-answer {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -5%) rotateY(180deg);
+    }
 }

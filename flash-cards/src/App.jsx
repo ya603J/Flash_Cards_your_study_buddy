@@ -27,9 +27,9 @@ function App() {
       </header>
 
       <div className='description'>
-        <div>Learn and test knowledge on Distributed Systems :）</div>
+        <div>Ready to learn and test knowledge on Distributed Systems?  :）</div>
         <div>Click on the card to see the answer. Click on the "Next" button to see a new question.</div>
-
+        <p>Number of Cards: 12</p>
       </div>
 
       <div className='cards-container'>
