@@ -1,4 +1,6 @@
-# Web Development Project 2 - *DS Flash Cards*
+# Web Development Project 2 - *DS Flash MasteredButton Part1*
+# Web Development Project 3 - *DS Flash MasteredButton Part2*
+
 
 
 
@@ -15,10 +17,30 @@ Time spent: **4** hours spent in total
 
 
 ## Required Features
+The following **required** functionality is completed for Part 2:
 
 
 
-The following **required** functionality is completed:
+- [x] **The user can enter their guess in a box before seeing the flipside of the card**
+- [x] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [x] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [x] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
+
+
+
+The following **optional** features are implemented for Part 2:
+
+
+
+- [x] A shuffle button is used to randomize the order of the cards
+- [x] A user's answer may be counted as correct even when it is slightly different from the target answer
+- [x] A counter displays the user's current and longest streak of correct responses
+- [x] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
+
+---
+
+
+The following **required** functionality is completed for Part 1:
 
 
 
@@ -34,23 +56,15 @@ The following **required** functionality is completed:
 
 
 
-The following **optional** features are implemented:
+The following **optional** features are implemented for Part 1:
 
 
 
-- [ ] Cards contains images in addition to or in place of text
+- [ ] MasteredButton contains images in addition to or in place of text
 
-- [ ] Cards have different visual styles such as color based on their category
+- [ ] MasteredButton have different visual styles such as color based on their category
 
 - [x] *visual style implemented*
-
-
-
-The following **additional** features are implemented:
-
-
-
-* [ ] List anything else that you added to improve the site's functionality!
 
 
 
@@ -60,9 +74,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-
-
-<img src='https://private-user-images.githubusercontent.com/181181004/420706580-d9e64326-6c5c-406b-8838-0f7e6a62d382.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE1NTYwNzMsIm5iZiI6MTc0MTU1NTc3MywicGF0aCI6Ii8xODExODEwMDQvNDIwNzA2NTgwLWQ5ZTY0MzI2LTZjNWMtNDA2Yi04ODM4LTBmN2U2YTYyZDM4Mi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwOVQyMTI5MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YTYwZWJkN2Y3NjY1NDhlMWNjMTBmNmVkZjA0ZTljMzJjMTNmMjY2ZDJmNmM5MWVhZjQ0YWRlYWU3MWMyZTkwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.nyjVKkGLo3qAkYNYJ9BmCJO4w3eKybkTrG9TQe8UfKM' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://cdn.loom.com/sessions/thumbnails/fafc7161abcb48f0bf306c0be94f62a5-44b4981faf042bf5-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
