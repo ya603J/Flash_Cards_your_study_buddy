@@ -44,7 +44,7 @@ The following **optional** features are implemented for Part 2:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.loom.com/share/a52547332e474350bf4c3c18f4c519a3?sid=195ae48c-e2b1-40a9-8023-b90ce98feec6' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/web102/NkIIsJ5S.gif' width='' alt='Video Walkthrough' />
 
 ---
 # Web Development Project 2 - *DS Flash Cards Part1*
