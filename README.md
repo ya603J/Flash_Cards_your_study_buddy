@@ -44,7 +44,7 @@ The following **optional** features are implemented for Part 2:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/NkIIsJ5S.gif' width='' alt='Video Walkthrough' />
+<img src='https://private-user-images.githubusercontent.com/181181004/423332647-f3e3bdf7-ea47-4f50-9084-f5d3c8bd439d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIxOTIyNzcsIm5iZiI6MTc0MjE5MTk3NywicGF0aCI6Ii8xODExODEwMDQvNDIzMzMyNjQ3LWYzZTNiZGY3LWVhNDctNGY1MC05MDg0LWY1ZDNjOGJkNDM5ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxN1QwNjEyNTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MjQzMDVkZDIwYTg4YzM1ZTg4ODBlZjQyMWQwYWYzOGJkNzM1M2IzZTFkYmY5Mjk4OWI5ZTAwNDg1ZWYwODQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.gisKDIHJBlfU9MbE7zUDznEVo_88QyFO5Bvp9Mq1n9A' width='' alt='Video Walkthrough' />
 
 ---
 # Web Development Project 2 - *DS Flash Cards Part1*
@@ -70,9 +70,9 @@ The following **optional** features are implemented for Part 1:
 
 
 
-- [x] MasteredButton contains images in addition to or in place of text
+- [x] Cards contains images in addition to or in place of text
 
-- [x] MasteredButton have different visual styles such as color based on their category
+- [ ] Cards have different visual styles such as color based on their category
 
 - [x] *visual style implemented*
 
